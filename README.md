@@ -30,5 +30,5 @@ This is a record of my 100 Days of Code challenge.
 
 ## Daily Log
 
-- Day 1: Created this README.md, fixed a bug in [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Feeling like this project is getting messy, probably need to do a significant refactor. Struggling to implement edit functionality. #Todo: Implement edit functionality in isolation of current project (i.e. break down the problem).
-- Day 2: Started adding the "edit" functionality in the [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). It now allows to edit, but it lost its styling and delete functionality. Created first branch to see serve a development version in Vercel.
+- Day 1: Created this README.md, fixed a bug in [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Project is getting messy, need to do a significant refactor. Struggling to implement edit functionality. #Todo: Implement edit functionality in isolation of current project (i.e. break down the problem).
+- Day 2: Started adding the "edit" functionality in the [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). It now allows to edit, missing styling and delete functionality.

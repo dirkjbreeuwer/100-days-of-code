@@ -34,4 +34,4 @@ This is a record of my 100 Days of Code challenge.
 - Day 1: Created this README.md, fixed a bug in [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Project is getting messy, need to do a significant refactor. Struggling to implement edit functionality. #Todo: Implement edit functionality in isolation of current project (i.e. break down the problem).
 - Day 2: Started adding the "edit" functionality in the [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). It now allows to edit, missing styling and delete functionality.
 - Day 3 & 4: Had a large deliverable at work and had to priorize health.
-- Day 5: Productive day: Added edit functionality to [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Created new repo with OSSU Core Curriculum notes and assignments.
+- Day 5: Productive day: Added edit functionality to [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Created new repo with [OSSU Core Curriculum notes and assignments](https://github.com/dirkjbreeuwer/ossu-cs-curriculum).

@@ -1,4 +1,5 @@
-# 100 Days of Code 
+# 100 Days of Code
+
 (Jan 30, 2023 - Wednesday, May 10, 2023)
 
 This is a record of my 100 Days of Code challenge.
@@ -7,7 +8,7 @@ This is a record of my 100 Days of Code challenge.
 
 ### Core CS
 
-1. Programming languages: Java, Python.
+1. Programming languages: Java, Python
 2. Data structures: Array, Linked List, Stack, Queue, Hash Table, Tree, Graph, Heap.
 3. Algorithms: Sorting, Recursion, Searching, Cache, Tree, Graph, Substring search, Dynamic programming.
 4. Design patterns & system design
@@ -26,9 +27,11 @@ This is a record of my 100 Days of Code challenge.
 
 ## Projects
 
-- [ ] 50% - [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react): Basic CRUD app in React. Concepts covered: Front end development in react, state and props, lists and conditional content, filering. 
+- [ ] 50% - [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react): Basic CRUD app in React. Concepts covered: Front end development in react, state and props, lists and conditional content, filering.
 
 ## Daily Log
 
 - Day 1: Created this README.md, fixed a bug in [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Project is getting messy, need to do a significant refactor. Struggling to implement edit functionality. #Todo: Implement edit functionality in isolation of current project (i.e. break down the problem).
 - Day 2: Started adding the "edit" functionality in the [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). It now allows to edit, missing styling and delete functionality.
+- Day 3 & 4: Had a large deliverable at work and had to priorize health.
+- Day 5: Productive day: Added edit functionality to [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Created new repo with OSSU Core Curriculum notes and assignments.

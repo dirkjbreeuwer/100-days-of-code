@@ -35,3 +35,6 @@ This is a record of my 100 Days of Code challenge.
 - Day 2: Started adding the "edit" functionality in the [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). It now allows to edit, missing styling and delete functionality.
 - Day 3 & 4: Had a large deliverable at work and had to priorize health.
 - Day 5: Productive day: Added edit functionality to [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Created new repo with [OSSU Core Curriculum notes and assignments](https://github.com/dirkjbreeuwer/ossu-cs-curriculum).
+- Day 6: Limited work, took saturday off.
+- Day 7: Dedicated 6 or 7 hours today. Great progress with OSSU core curriculum. Reworked many of the HTC excercises, feel a much more solid understanding on self-reference. Strong understanding of data definitions and how they influence function definitions. Strong understanding of helpers.
+- Day 8: Worked on to "difficult" HtC excercises today, great progress. Working on the "spinning bears" assignment.

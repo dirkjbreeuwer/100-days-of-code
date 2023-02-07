@@ -22,7 +22,7 @@ This is a record of my 100 Days of Code challenge.
 
 ## Ongoing courses
 
-- [ ] 86% - [UBCx HtC1x - How to Code: Simple Data](https://learning.edx.org/course/course-v1:UBCx+HtC1x+2T2017): How to design functions, how to design data, self reference, binary search trees.
+- [ ] 86% - [UBCx HtC1x - How to Code: Simple Data](https://learning.edx.org/course/course-v1:UBCx+HtC1x+2T2017): How to design functions, how to design data, reference, self reference, binary search trees.
 - [ ] 25% - [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux): Reactjs, Hooks, Redux, React Routing, Animations, Next.js
 
 ## Projects
@@ -36,5 +36,6 @@ This is a record of my 100 Days of Code challenge.
 - Day 3 & 4: Had a large deliverable at work and had to priorize health.
 - Day 5: Productive day: Added edit functionality to [To-do App in React](https://github.com/dirkjbreeuwer/todoapp-react). Created new repo with [OSSU Core Curriculum notes and assignments](https://github.com/dirkjbreeuwer/ossu-cs-curriculum).
 - Day 6: Limited work, took saturday off.
-- Day 7: Dedicated 6 or 7 hours today. Great progress with OSSU core curriculum. Reworked many of the HTC excercises, feel a much more solid understanding on self-reference. Strong understanding of data definitions and how they influence function definitions. Strong understanding of helpers.
-- Day 8: Worked on to "difficult" HtC excercises today, great progress. Working on the "spinning bears" assignment.
+- Day 7: Dedicated 6 or 7 hours today. Great progress with OSSU core curriculum. Reworked many of the [HTC excercises](https://github.com/dirkjbreeuwer/ossu-cs-curriculum/blob/main/core-programming/how-to-code-simple-data/README.md), feel a much more solid understanding on self-reference. Strong understanding of data definitions and how they influence function definitions. Strong understanding of helpers.
+- Day 8: Worked on two "difficult" [HtC excercises](https://github.com/dirkjbreeuwer/ossu-cs-curriculum/blob/main/core-programming/how-to-code-simple-data/README.md) today, great progress. Working on the "spinning bears" assignment.
+- Day 9: Continued working on the "spinning bears" assignment.
